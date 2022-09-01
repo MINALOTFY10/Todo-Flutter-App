@@ -1,6 +1,6 @@
 
 # Todo App
-Application that allows to manage a list of tasks to do
+This application using flutter allows you to manage a list of tasks to do
 
 ## Tools
 - Dart
