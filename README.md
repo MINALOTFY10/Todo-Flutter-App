@@ -5,7 +5,7 @@ This application using flutter allows you to manage a list of tasks to do
 ## Tools
 - Dart
 - Bloc (State Management)
-- SQFLITE
+- SQLite (Local DataBase)
 
 ## Screenshots
 | | | 
