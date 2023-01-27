@@ -1,6 +1,6 @@
 
 # Todo App
-This application using flutter allows you to manage a list of tasks to do
+A Todo App made with Flutter is a mobile application that enables users to create, manage and organize tasks in an intuitive and user-friendly way. It allows users to easily add, delete and modify tasks, arranging tasks into lists and priorities, set tasks with time and dates. The app is built using the Flutter framework, which provides a powerful and expressive platform for creating stunning mobile applications.
 
 ## Tools
 - Dart
